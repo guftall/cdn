@@ -857,7 +857,7 @@ line-height: 28px;
 margin-bottom:20px; padding:30px 40px 10px;}
 .post img{max-width:100%}
 .entry-video iframe,.thumb{display:block}
-.entry-container{background:#FFF;position:relative;margin-bottom: -10px;}
+.entry-container{background:#FFF;position:relative;margin-bottom: -10px;padding: 30px 40px 30px 40px;}
 div.entry-container:before {
 content: "";
 position: absolute;
@@ -880,6 +880,7 @@ h1.entry-title {
 height: 50px;
 }
 div.meta1 p {
+text-align: right;
 padding: 10px 0;
 margin-bottom: -20px;
 }
